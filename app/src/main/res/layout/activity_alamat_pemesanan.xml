@@ -1,0 +1,59 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="#FAF3E0">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alamat Pemesanan"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="#3E3E3E"
+        android:layout_marginBottom="24dp"/>
+
+    <EditText
+        android:id="@+id/etNamaLengkap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/nama_hint"
+        android:inputType="text"
+        android:autofillHints="username"
+        android:backgroundTint="#3E3E3E"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/etAlamat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Alamat"
+        android:inputType="text"
+        android:autofillHints="username"
+        android:backgroundTint="#3E3E3E"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/etNoHandphone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="No. Handphone"
+        android:autofillHints="password"
+        android:backgroundTint="#3E3E3E"
+        android:layout_marginBottom="24dp"/>
+
+    <Button
+        android:id="@+id/btnOrderDanKirim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Order dan Kirim"
+        android:backgroundTint="#6A4C93"
+        android:textColor="#FFFFFF"
+        android:paddingHorizontal="32dp"
+        android:paddingVertical="8dp"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

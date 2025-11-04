@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SweetTooth Bakery</string>
+    <string name="welcome_title">SweetTooth Bakery</string>
+    <string name="welcome_subtitle">Freshly baked happiness just for you</string>
+    <string name="sign_up_title">Sign Up</string>
+    <string name="sign_up_subtitle">Freshly baked, beautifully crafted, and made just for you. Order now to taste the art of sweetness</string>
+    <string name="login_text">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="register_text">Register</string>
+    <string name="nama_hint">Nama Lengkap</string>
+    <string name="text_intro">Choose your favorite cake or dessert!</string>
+    <string name="bread_description">Roti lembut yang dipanggang sempurna, cocok untuk sarapan atau camilan.</string>
+    <string name="cookies_description">Kue renyah dengan aroma mentega yang menggoda. Setiap gigitannya memberikan perpaduan manis dan gurih yang pas di lidah.</string>
+    <string name="croissant_description">Pastry khas Prancis berlapis-lapis dengan tekstur renyah di luar dan lembut di dalam.</string>
+    <string name="cromboloni_description">Perpaduan unik antara croissant dan bomboloni yang viral! Kulitnya renyah, isi dalamnya lembut dengan isian krim manis yang melimpah.</string>
+    <string name="cupcake_description">Kue mini bertekstur lembut dengan topping krim manis di atasnya. Cocok untuk acara spesial atau hadiah manis untuk orang tersayang.</string>
+    <string name="donut_description">Kue goreng berbentuk cincin dengan berbagai topping menarik — mulai dari gula halus, cokelat leleh, hingga taburan warna-warni.</string>
+    <string name="macaron_description">Kue khas Prancis berwarna cantik dengan kulit renyah dan isian lembut di tengahnya. Rasanya manis dengan aroma khas almond.</string>
+    <string name="rollcake_description">Kue gulung lembut dengan isian krim manis di tengahnya. Setiap potongannya menghadirkan sensasi lembut dan nikmat di mulut.</string>
+    <string name="sourdough_description">Roti artisan dengan cita rasa sedikit asam alami dari proses fermentasi. Teksturnya padat dan renyah di luar, cocok untuk hidangan sehat.</string>
+    <string name="strawberry_cake_description">Kue lembut dengan lapisan krim dan potongan stroberi segar. Perpaduan rasa manis dan asamnya menciptakan kesegaran di setiap gigitan.</string>
+    <string name="strawberry_cheesecake_description">Kue keju lembut dengan topping stroberi segar dan saus manis. Teksturnya creamy dan lumer di mulut, sempurna untuk pencinta dessert.</string>
+    <string name="closing_statement">Terima kasih telah order di SweetTooth Bakery! Semoga kue kami bisa manisin harimu! 🍪💕</string>
+
+</resources>
