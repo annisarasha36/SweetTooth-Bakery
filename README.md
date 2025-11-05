@@ -11,4 +11,20 @@ NavBar ini memudahkan pengguna untuk berpindah antar halaman (Home, Order, Profi
 
 ## Tampilan Aplikasi
 ### Start Page
+![Start Page](images/welcome_activity.png)
+### Sign Up Page
+![SignUp Page](images/signup_activity.png)
+### Register Page
+![Register Page](images/register_activity.png)
+### Login Page
+![Login Page](images/login_activity.png)
+### Main Page
+![Main Page](images/main_activity.png)
+### Order Page
+![Order Page](images/order_activity.png)
+### Alamat Pemesanan Page
+![Alamat Pemesanan Page](images/alamat_pemesanan_activity.png)
+### Closing Page
+![Closing Page](images/closing_activity.png)
+
 
